@@ -1,2 +1,0 @@
-
-for word in strs:
