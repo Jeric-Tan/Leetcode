@@ -8,7 +8,6 @@ while (i**2) <= n:
     squares.append(i**2)
     i += 1 
 
-
 def solve(i):
     print("Solving: ", i)
     steps = 0
